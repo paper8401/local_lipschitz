@@ -4,7 +4,10 @@ We provide our new experiment results in this webpage.
 
 ### Main Table
 
-![Image of Main Table](https://github.com/paper8401/local_lipschitz/blob/gh-pages/main.png)
+<!-- ![Image of Main Table](https://github.com/paper8401/local_lipschitz/blob/gh-pages/main.png) -->
+
+<img src="main.png" class="img-responsive" alt="" width="800"> 
+
 
 ### Markdown
 
