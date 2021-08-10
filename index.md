@@ -10,7 +10,7 @@ We also added in comparisons with ReLU-stability techniques. We use the best NN 
 
 In addition, we added another differentiable certified training algorithm: CROWN-IBP [b]. The performance gap between these models and our approach is quite big, indicating that our approach is more suitable for L2 norm certified robustness.
 
-<img src="main.png" class="img-responsive" alt="" width="800"> 
+<img src="main_local.png" class="img-responsive" alt="" width="800"> 
 
 [a] alpha-beta-CROWN: https://github.com/huanzhang12/alpha-beta-CROWN
 
