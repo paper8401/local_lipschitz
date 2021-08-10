@@ -1,5 +1,3 @@
-## Training Certifiably Robust Neural Networks with Efficient Local Lipschitz Bounds
-
 We provide our new experiment results in this webpage.
 
 ### More thorough comparisons to the baselines
