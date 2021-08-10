@@ -4,7 +4,7 @@ We provide our new experiment results in this webpage.
 
 ### Main Table
 
-![Image of Main Table](https://octodex.github.com/images/yaktocat.png)
+![Image of Main Table](https://paper8401.github.com/local_lipschitz/main.png)
 
 ### Markdown
 
